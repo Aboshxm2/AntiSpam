@@ -1,0 +1,12 @@
+chat-delay: 2
+
+remove-warns-delay: 2
+
+max-warns: 3
+
+warn-message: "§7[§aAnti§4spam§7] §cPlease, don't spam!"
+
+# nothing or kick
+punishment: nothing
+
+kick-message: Don't spam in the next time

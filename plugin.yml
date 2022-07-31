@@ -1,0 +1,10 @@
+name: AntiSpam
+version: 1.0.0
+author: Aboshxm2
+api: 4.0.0
+src-namespace-prefix: Aboshxm2\AntiSpam
+main: Aboshxm2\AntiSpam\Main
+
+permissions:
+  AntiSpam.cooldown.bypass:
+    default: op
